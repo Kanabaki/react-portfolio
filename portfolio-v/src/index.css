@@ -28,7 +28,7 @@ body {
   flex-direction: column;
   /* place-items: center; */
   width: 100vw;
-  border: 1px solid pink;
+  border: 0px solid pink;
   min-height: 100vh;
 }
 
@@ -74,7 +74,7 @@ footer {
   bottom: 0;
   width: 100%;
   margin-top: auto;
-  border:1px solid red;
+  border:0px solid red;
   height: 100px;
   display: flex;
   justify-content: center;

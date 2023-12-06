@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgb(63, 83, 121);
 }
 
 .logo {
@@ -18,6 +19,9 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+a {
+  color:rgb(72, 143, 236)
+}
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
