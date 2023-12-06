@@ -5,17 +5,14 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Description 
-What was your motivation for the project?
-Why did you build this project?
-What problem does it solve?
-What did you learn?
+Motivation for building the portfolio was to become more familiar with how the React language works. The project was built with intention to be able to be served as an exposee of projects made through a portfolio. Making a portfolio through React absolves the issue of the need for more intensive DOM manipulation and inefficient targeting and rerendering of simpler html pages. Concepts learned through this creation include learning of React components, pages, and even form field authentication. 
+
 
 ## Installation
 Make sure you have the node modules in your local machine using the line **npm install** .
@@ -23,13 +20,11 @@ Make sure you have the node modules in your local machine using the line **npm i
 ## Usage
 Usage Image:
 
-![alt](img-path)
+![react-portfolio-demo-img](/portfolio-v/src/assets/react-portfolio-demo-img.png)
 
-Run the line **npm start** 
+Deployment Link: https://poetic-duckanoo-75fa2c.netlify.app
 
-
-## Credits
-
+After you run the line **npm start** or by clicking on the deployed link you can then navigate the different pages to explore the app. 
 
 ## License
 License: MIT
