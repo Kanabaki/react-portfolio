@@ -1,7 +1,8 @@
 function Footer () {
     return (
         <footer>
-            <h4>Footer Title</h4>
+            <h4>Footer</h4>
+            <p> &copy; 2023 nobue-url.com </p>
         </footer>
     )
     }
