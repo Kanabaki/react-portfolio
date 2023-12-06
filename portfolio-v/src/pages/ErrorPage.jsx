@@ -1,5 +1,5 @@
 export default function ErrorPage() {
     return (
-     <div>ERRRR </div>
+     <div>An unexpected error ocurred! </div>
         );
     }

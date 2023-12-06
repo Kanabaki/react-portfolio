@@ -1,6 +1,9 @@
 export default function ProfilePage() {
     return (
+        <>
         <div>Portfolio</div>
+        <p>Collection of previous projects.</p>
+        </>
     );
 }
 // arr of projects, make cards projects.MAP
